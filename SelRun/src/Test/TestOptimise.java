@@ -53,7 +53,7 @@ public class TestOptimise {
 	 
 	}
 	@Test
-	public void verifyNegativeScenario1() throws Exception{
+	public void TCC02_VerifyErrorMessage() throws Exception{
 	
 	 //input name
 	 driver.findElement(By.xpath("//input[@type='text']")).sendKeys("Anusree");
