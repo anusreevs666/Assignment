@@ -18,7 +18,7 @@ public class TestOptimise {
 	}
 	
 	@Test
-	public void verifyFunctionality() {
+	public void TC001_VerifyContactPage() {
 	 System.out.println("Title of the page is :" + driver.getTitle()); //to print the title of page
 	 
 	 //input name
